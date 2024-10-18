@@ -17,7 +17,7 @@
         { "key": "afasu", "name": "小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         { "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
        
-        { "key": "(18+)富二代资源", "name": "(18+)富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 }， 
+        { "key": "(18+)富二代资源", "name": "(18+)富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 }，
   {
       "key": "madouse.la",
       "name": "成人01",
