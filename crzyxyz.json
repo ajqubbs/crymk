@@ -719,12 +719,29 @@
             "type": 0,
             "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
         },
+                   {
+            "name": "直播3",
+            "ua": "",
+            "type": 0,
+            "url": "https://zzzzz.tv/tv/tv.txt"
+        },
+                     {
+            "name": "直播4",
+            "ua": "",
+            "type": 0,
+            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"
+        },
+
+
+
+        
         {
             "name": "综合",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt"，
             "playerType": 1
         }
+        
     ],
     "flags": [
         "youku",
