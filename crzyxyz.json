@@ -450,12 +450,11 @@
             "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"
         },
 
-        {
+          {
             "name": "综合",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt"，
-            "playerType": 1
-        }
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "playerType": 1}
         
     ],
     "flags": [
