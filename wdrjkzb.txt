@@ -1,3 +1,37 @@
+《CCTV-1综合》
+API：https://tv.bfsu.edu.cn/hls/cctv1hd.m3u8
+《CCTV-2财经》
+API：https://tv.bfsu.edu.cn/hls/cctv2hd.m3u8
+《CCTV-3综艺》
+API：https://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
+《CCTV-4中文国际》
+API：https://tv.bfsu.edu.cn/hls/cctv4hd.m3u8
+《CCTV-5体育》
+API：https://tv.bfsu.edu.cn/hls/cctv5hd.m3u8
+《CCTV-6电影》
+API：https://tv.bfsu.edu.cn/hls/cctv6hd.m3u8
+《CCTV-7国防军事》
+API：https://tv.bfsu.edu.cn/hls/cctv7hd.m3u8
+《CCTV-8电视剧》
+API：https://tv.bfsu.edu.cn/hls/cctv8hd.m3u8
+《CCTV-9纪录》
+API：https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
+《CCTV-10科教》
+API：https://tv.bfsu.edu.cn/hls/cctv10hd.m3u8
+《CCTV-11戏曲》
+API：https://tv.bfsu.edu.cn/hls/cctv11hd.m3u8
+《CCTV-12社会与法》
+API：https://tv.bfsu.edu.cn/hls/cctv12hd.m3u8
+《CCTV-13新闻》
+API：https://tv.bfsu.edu.cn/hls/cctv13hd.m3u8
+《CCTV-14少儿》
+API：https://tv.bfsu.edu.cn/hls/cctv14hd.m3u8
+《CCTV-15音乐》
+API：https://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
+《CCTV-16奥林匹克》
+API：https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
+《CCTV-17农业农村》
+API：https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
 《🐷12传媒01》
 API：https://zo3921.cdnedge.live/file/avple-asserts/hls/639582e5004a703fd7d1409d/playlist.m3u8
 《🐷12传媒02》
