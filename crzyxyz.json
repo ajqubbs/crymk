@@ -706,52 +706,22 @@
     ],
     "lives": [
         {
-            "name": "高清直播1",
+            "name": "香蕉直播",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://raw.githubusercontent.com/ajqubbs/wdrjk-a-v/refs/heads/main/xjzhibo-a-v",
             "playerType": 1
         },
         {
-            "name": "高清直播2",
+            "name": "九州直播1",
             "type": 0,
-            "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
+            "url": "https://raw.githubusercontent.com/ajqubbs/wdrjk-a-v/refs/heads/main/jz2zhibo-av",
             "playerType": 2
         },
-        {
-            "name": "老友直播",
-            "ua": "",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/tvbox/blob/main/20230109.txt"
-        },
-   {
-            "name": "IPV6直播",
-            "ua": "",
-            "type": 0,
-            "url": "https://kkgithub.com/ll996075dd/tvbox/blob/main/api/lib/live.txt"
-        },
-           {
-            "name": "范明直播",
-            "ua": "",
-            "type": 0,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
-        },
-                   {
-            "name": "直播3",
-            "ua": "",
-            "type": 0,
-            "url": "https://zzzzz.tv/tv/tv.txt"
-        },
-         {
-            "name": "直播4",
-            "ua": "",
-            "type": 0,
-            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"
-        },
-
+       
           {
-            "name": "综合",
+            "name": "九州直播2",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "url": "https://raw.githubusercontent.com/ajqubbs/wdrjk-a-v/refs/heads/main/jzzhibo-av",
             "playerType": 1}
         
     ],
